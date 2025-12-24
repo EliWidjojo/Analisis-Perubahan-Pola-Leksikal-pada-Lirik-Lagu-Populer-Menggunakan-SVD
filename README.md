@@ -17,4 +17,5 @@ Data yang digunakan adalah **20 lagu teratas** dari Billboard Hot 100 Year-End C
 
 ## Informasi Tambahan
 Untuk menjalankkan Genius API pada importLyrics.py, gunakan API key yang Anda miliki sendiri. 
+
 **Program dapat berjalan tanpa importLyrics.py karena data lirik lagu sudah ada.**
