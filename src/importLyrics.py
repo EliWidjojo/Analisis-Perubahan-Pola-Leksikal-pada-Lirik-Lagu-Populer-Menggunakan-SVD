@@ -32,7 +32,7 @@ def clean_lyrics(text: str) -> str:
     return text.strip()
 
 # Configuration
-GENIUS_TOKEN = "5VyYKj1RHfKJBtGInW_e5MGQ0_FuyDYhSsVMxxJATtHI2ekP1SyP5o5CEIsJoaOZ"
+GENIUS_TOKEN = ""
 METADATA_FILE = "../data/metadata.xlsx"
 OUTPUT_DIR = "../data/lyrics"
 SLEEP_TIME = 1.0
