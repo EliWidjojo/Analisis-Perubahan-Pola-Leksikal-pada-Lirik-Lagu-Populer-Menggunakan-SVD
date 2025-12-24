@@ -3,7 +3,7 @@ import pandas as pd
 
 def load_texts(min_chars=30):
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
+    #33
     metadata_path = os.path.join(BASE_DIR, "../data/metadata.xlsx")
     lyrics_dir    = os.path.join(BASE_DIR, "../data/lyrics")
 
