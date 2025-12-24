@@ -15,4 +15,6 @@ Data yang digunakan adalah **20 lagu teratas** dari Billboard Hot 100 Year-End C
 3. Instal dependensi jika ada menggunakan command "pip install -r requirements.txt"
 4. Jalankan aplikasi dengan menggunakan command "python main.py"
 
-   
+## Informasi Tambahan
+Untuk menjalankkan Genius API pada importLyrics.py, gunakan API key yang Anda miliki sendiri. 
+**Program dapat berjalan tanpa importLyrics.py karena data lirik lagu sudah ada.**
